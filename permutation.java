@@ -1,6 +1,7 @@
 class permutation {
     public static void main(String args[]) {
-        String str = args[0];
+        //String str = args[0];
+        String str = "ABC";
         char arr[] = str.toCharArray();
         permutate(arr, 0);
     }

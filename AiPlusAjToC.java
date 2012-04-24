@@ -1,6 +1,6 @@
 
 /*  find Ai + Aj = target  */
-public class AiPlusAjToZero {
+public class AiPlusAjToC {
 	public static void main(String args[]) {
 		int arr[] = {-13,-8,3,5,6,8,12,23};
 		int target = 20;
